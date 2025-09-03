@@ -47,5 +47,5 @@ Source: [Kaggle - Boston House Prices](https://www.kaggle.com/datasets/vikrishna
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/boston-house-prices-predictor.git
+   git clone https://github.com/AliAbsolute/boston-house-price-predictor.git
    cd boston-house-prices-predictor
